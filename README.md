@@ -1,0 +1,1 @@
+This application consists of the apsolutely minimalistic RedwoodJS TypeScript app created by following the RedwoodJS tutorial up to and including the [Our First page](https://redwoodjs.com/docs/tutorial/chapter1/first-page). 
