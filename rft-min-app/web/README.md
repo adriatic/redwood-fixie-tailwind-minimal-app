@@ -21,6 +21,7 @@ Continue with the sequence:
 
  <img width="623" alt="image" src="https://github.com/adriatic/fixie-logs/assets/2712405/18d98e37-2628-4141-b8e0-e4f8ff0876f8">
 
- The content of this [landing page](./web/src/pages/TwLandingPage/TwLandingPage.tsx) created by `yarn redwood generate page tw-landing page` is
+ The content of this [landing page](https://github.com/adriatic/redwood-fixie-tailwind-minimal-app/blob/main/rft-min-app/web/src/pages/TwLandingPage/TwLandingPage.tsx) created by `yarn redwood generate page tw-landing page` is
 
  <img width="509" alt="image" src="https://github.com/adriatic/fixie-logs/assets/2712405/e7769d52-1ffc-4b03-a864-bcc65156d95f">
+
